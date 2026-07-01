@@ -55,3 +55,10 @@ npm start
 ```
 
 ## Estructura del proyecto
+
+backJs_Eval3/
+├── server.js                  # API REST principal
+├── package.json               # Dependencias
+├── Dockerfile                 # Imagen Docker
+└── .github/workflows/
+└── deploy.yml             # Pipeline CI/CD
